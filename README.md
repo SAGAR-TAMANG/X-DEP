@@ -6,6 +6,14 @@
 
 ---
 
+## Screenshots
+
+<img src="static/ss-1.png" alt="screenshot of cmd terminal" />
+
+| Accuracy & Loss Graphs | Explainability (LIME)  |
+| :---------------: | :---------------: |
+| <img src="static/ss-3.png" alt="Accuracy & Loss Graphs" /> | <img src="static/ss-2.png" alt="Explainability (LIME)" /> |
+
 ## Overview
 
 **xdep** is an integrated pipeline designed to simplify the development and evaluation of trustworthy computer vision models.  
