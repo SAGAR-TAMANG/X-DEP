@@ -25,13 +25,7 @@ It provides an end-to-end framework for training, interpreting, and visualizing 
 
 ## Installation
 
-You can install the latest stable version from [TestPyPI](https://test.pypi.org/project/xdep/) (for testing):
-
-```bash
-pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple xdep
-````
-
-Or install from the official PyPI (when published):
+You can install the latest stable version from [TestPyPI](https://test.pypi.org/project/xdep/) (for testing) or [PyPI](https://pypi.org/project/xdep/) (for production):
 
 ```bash
 pip install xdep
