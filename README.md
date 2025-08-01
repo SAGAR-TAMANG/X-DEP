@@ -104,8 +104,8 @@ Contributions are welcome! Feel free to:
 Clone the repo and install in editable mode:
 
 ```bash
-git clone https://github.com/SAGAR-TAMANG/x-dep
-cd x-dep
+git clone https://github.com/SAGAR-TAMANG/X-DEP
+cd X-DEP
 pip install -e .
 ```
 
