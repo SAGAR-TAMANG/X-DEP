@@ -67,7 +67,7 @@ main.main()
 After installation, you can run the `xdep` command directly in your terminal:
 
 ```bash
-xdep --help
+xdep
 ```
 
 This will show available commands and options.
